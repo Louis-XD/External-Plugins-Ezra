@@ -15,12 +15,24 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ᴇᴢʀᴀ-xᴅ
 
 <h4 align="center">  ᐉ MENTION-2</h1>
 
-   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/Zeta-XD"> 𝐋𝐎𝐔𝐈𝐒-𝐗𝐃</a>
+   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/Louis-XD"> 𝐋𝐎𝐔𝐈𝐒-𝐗𝐃</a>
 
 ```js
 https://gist.github.com/Louis-XD/ccfeaaf93f8e1eff4645c95b9a18ea81
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : 𝙼𝙴𝙽𝚃𝙸𝙾𝙽 𝙰𝚄𝙳𝙸𝙾 𝚂𝙴𝙽𝙳𝙴𝚁, 𝙸𝙾𝚂 𝚆𝙾𝚁𝙺𝙸𝙽𝙶<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ᴇᴢʀᴀ-xᴅ
+<br />
+<br />
+
+<h4 align="center">  ᐉ OWNER</h1>
+
+   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/Louis-XD"> 𝐋𝐎𝐔𝐈𝐒-𝐗𝐃</a>
+
+```js
+https://gist.github.com/Louis-XD/88e15ca2b34770a247d7e7344d23f68b
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝚂𝙴𝙽𝙳𝙴𝚁<br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ᴇᴢʀᴀ-xᴅ
 <br />
 <br />
