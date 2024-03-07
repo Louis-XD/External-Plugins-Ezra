@@ -1,7 +1,7 @@
 # External-Plugins-EZRA-XD
 
 
-<h4 align="center">  ᐉ MENTION 1</h1>
+<h4 align="center">  ᐉ MENTION-1</h1>
 
    ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/Zeta-XD"> 𝐙𝐄𝐓𝐀-𝐗𝐃</a>
 
