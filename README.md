@@ -30,7 +30,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ᴇᴢʀᴀ-xᴅ
    ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/Zeta-XD"> 𝐙𝐄𝐓𝐀-𝐗𝐃</a>
 
 ```js
-https://gist.github.com/Louis-XD/88e15ca2b34770a247d7e7344d23f68b
+https://gist.github.com/Zeta-XD/96fbb8914025ac52a336f426971b40ea
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝚂𝙴𝙽𝙳𝙴𝚁<br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ᴇᴢʀᴀ-xᴅ
