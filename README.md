@@ -18,7 +18,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ᴇᴢʀᴀ-xᴅ
    ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/Louis-XD"> 𝐋𝐎𝐔𝐈𝐒-𝐗𝐃</a>
 
 ```js
-https://gist.github.com/Louis-XD/c0772ff1a21a95f9e565ba99a4bc54f5
+https://gist.github.com/Louis-XD/1124b4a666c450a657b45b287ce75f5d
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : 𝙼𝙴𝙽𝚃𝙸𝙾𝙽 𝙰𝚄𝙳𝙸𝙾 𝚂𝙴𝙽𝙳𝙴𝚁, 𝙸𝙾𝚂 𝚆𝙾𝚁𝙺𝙸𝙽𝙶<br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ᴇᴢʀᴀ-xᴅ
